@@ -1,0 +1,11 @@
+.container-fluid {
+  display: flex;
+  flex-direction: column;
+}
+
+.girl {
+  display: flex;
+  width: 272px;
+  height: 355px;
+  flex-direction: column;
+}
